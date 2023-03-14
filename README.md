@@ -1,5 +1,3 @@
-## Tor versions of clearnet sites (for enchanced privacy)
-
 | Site | TOR URL |
 | --- | --- |
 | Facebook | [facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion](http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) |
